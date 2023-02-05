@@ -1,4 +1,4 @@
-#Text Message via GET Req
+# Text Message via GET Req
 
 🧟🧟🧟🧟🧟   CHECK PATHS AND OTHER ELEMENTS IN SCRIPS AND ADJUST TO YOUR NEEDS   🧟🧟🧟🧟🧟  
 
