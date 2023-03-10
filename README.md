@@ -1,6 +1,6 @@
 # Text Message via GET Req 🔏
 
-⚠️⚠️⚠️ ##**CHECK PATHS AND OTHER ELEMENTS IN SCRIPS AND ADJUST TO YOUR NEEDS** ⚠️⚠️⚠️
+⚠️⚠️⚠️ **CHECK PATHS AND OTHER ELEMENTS IN SCRIPS AND ADJUST TO YOUR NEEDS** ⚠️⚠️⚠️
 
 This GitHub repository provides a solution for secure text message sharing among multiple users.
 When a user sends a GET request, the data is transmitted to the server via an argument in the HTTP request. The server receives the GET request and           parses the encrypted argument, which contains the message sent by the user. The server then decrypts the message using the shared encryption key before displaying it to the master user.
