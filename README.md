@@ -11,3 +11,13 @@ It's also important to note that **only the master user can read the messages**,
 
 Overall, by using HTTP GET requests to transmit messages to the server, this repository provides a simple and convenient way for multiple users to securely exchange text messages. However, to ensure the security and confidentiality of messages exchanged, it's important to implement appropriate security measures, such as **sharing the encryption key through a secure channel.**
 
+## How to run the script ⚙️
+
+1. Clone the repository: In your terminal, navigate to the directory where you want to clone the repository and run the following command:
+> git clone "repository URL"
+2. Navigate to the directory containing the Go script: Use the cd command to navigate to the directory containing the Go script you want to run.
+Run the Go script: In your terminal, run the following command to execute the Go script:
+> go run "script name".go
+
+**Be sure to read the README and any additional documentation provided by the repository owner to ensure that you are using the script correctly and following any security or usage guidelines.**
+By following these steps, you can easily run a Go script from a GitHub repository and take advantage of the functionality provided by the script.
